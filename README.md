@@ -1,4 +1,4 @@
-# zupay
+# zupay interview assignement
 
 A new Flutter application.
 
